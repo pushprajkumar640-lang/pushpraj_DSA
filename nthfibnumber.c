@@ -17,6 +17,6 @@ int fib2(long n)
 }
 int main()
 {
-    //printf("%1d ",fib1(8));
+    printf("%1d ",fib1(8));
     printf("%1d ",fib2(8));
 }
